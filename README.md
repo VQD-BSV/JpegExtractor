@@ -1,5 +1,5 @@
 # JpegExtractor
-Quickly extract JPEGs as RAW files and other formats with JPEG structure
+Quickly extract JPEGs as RAW files and other formats with JPEG structure, main_1.py is an example of the code you use exe
 ## Usage
 
 ## Donation
