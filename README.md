@@ -1,5 +1,7 @@
 # JpegExtractor
 Quickly extract JPEGs as RAW files and other formats with JPEG structure, main_1.py is an example of the code you use exe
+If your file is damaged, it depends on whether the RAW header is lost or is fragmented, cutting the image data in half
+You can use it with raw/jpeg files encrypted by ransomware, note that this tool is not 100% sure of recovering all file types.
 ## Usage
 
 ## Donation
